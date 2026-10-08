@@ -1,5 +1,6 @@
 # Sidhra-j-SupplyMe-AI-model
 Hi, I'm Sidhra & I built this AI tool to solve real time supply chain business problems.
+
 Stop surprising customers with late deliveries. Type a product code, get a real delivery date, shipping route, stock levels, etc. AI-powered supply chain visibility.
 *Code available on request*
 
