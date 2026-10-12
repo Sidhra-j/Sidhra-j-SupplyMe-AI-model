@@ -2,9 +2,9 @@
 
 Stop surprising customers with late deliveries. Type a product code, get a real delivery date, shipping route, stock levels, etc. AI-powered supply chain visibility.
 
-<img width="439" height="416" alt="Screenshot 2026-10-08 204126" src="https://github.com/user-attachments/assets/8d354efc-a0a7-457c-b772-88a2a3fa1f43" />
+https://github.com/user-attachments/assets/a2ff8127-4778-4f2e-a72b-6680781d3c88
 
-https://github.com/user-attachments/assets/b9d390bd-4bc1-4186-8cf0-74d5affc7e02
+<img width="439" height="416" alt="Screenshot 2026-10-08 204126" src="https://github.com/user-attachments/assets/8d354efc-a0a7-457c-b772-88a2a3fa1f43" />
 
 🔍 A peek under the hood:
 
