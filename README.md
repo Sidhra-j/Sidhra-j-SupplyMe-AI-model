@@ -11,6 +11,8 @@ https://github.com/user-attachments/assets/a2ff8127-4778-4f2e-a72b-6680781d3c88
 **1. Adapters: one assistant, any company's data layout**
 
 Every company has it's own set of data in different columns. A small adapter translates each layout into one standard format, so the assistant never needs to change.
+The AI returns answers only based on the data that is used without any guesstimation. If the AI is overloaded, or busy, it retries automatically instead of crashing or it sends out a message saying that it is currently busy & to retry again in a minute, so long as the data requested is a part of the input large database.
+
 
 ```python
 "AeroParts": {
@@ -19,6 +21,3 @@ Every company has it's own set of data in different columns. A small adapter tra
                 ...},
 },
 .... and so on.
-
-
-The AI returns answers only based on the data that is used without any guesstimation. If the AI is overloaded, or busy, it retries automatically instead of crashing or it sends out a message saying that it is currently busy & to retry again in a minute, so long as the data requested is a part of the input large database.
